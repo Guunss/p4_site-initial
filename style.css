@@ -3,7 +3,7 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Tahoma', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -539,7 +539,7 @@ a[data-lightbox] {
 
 a[data-lightbox]:hover::before {
     content: "+";
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Tahoma', sans-serif;
     font-size: 32px;
     width: 50px;
     height: 50px;
@@ -650,7 +650,7 @@ p,
 label,
 .btn,
 a {
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Tahoma', sans-serif;
     font-weight: 400;
     color: #575757!important;
 }
