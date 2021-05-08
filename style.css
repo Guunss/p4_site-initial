@@ -3,6 +3,7 @@ body {
     padding: 0;
     background: #FFF;
     overflow-x: hidden;
+    font-family: 'Fira Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -538,7 +539,7 @@ a[data-lightbox] {
 
 a[data-lightbox]:hover::before {
     content: "+";
-    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
+    font-family: 'Fira Sans', sans-serif;
     font-size: 32px;
     width: 50px;
     height: 50px;
@@ -649,7 +650,7 @@ p,
 label,
 .btn,
 a {
-    font-family: "helvetica";
+    font-family: 'Fira Sans', sans-serif;
     font-weight: 400;
     color: #575757!important;
 }
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
